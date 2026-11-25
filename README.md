@@ -1,7 +1,7 @@
 # CRYPTOGRAPHY
 # Hashing, Digital Signature & Vehicle Registration (Console)
-
-Menu-driven Python app.
+npm install
+npm start
 
 ## Setup & run
     pip install -r requirements.txt
